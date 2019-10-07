@@ -10,8 +10,8 @@ https://testdriven.io/blog/adding-a-custom-stripe-checkout-to-a-flask-app/
 - flask run
 - http://flask.palletsprojects.com/en/1.1.x/quickstart/
 
-card number 4242 4242 4242 4242 
-10/20 000
+- card number 4242 4242 4242 4242 
+- 10/20 000
 
 
 
